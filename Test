@@ -1,0 +1,5 @@
+git config --global user.name "Anuar Vazquez"
+git config --global user.email "anuarayech@gmail.com"
+git config --global init.defaultBranch main
+git config --global color.ui auto
+git config --global pull.rebase false
